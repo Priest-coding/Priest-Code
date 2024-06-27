@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(58,58,58);
+    color: white;
+    font-family: Helvetica Neuve,Helvetica,Arial; 
+    margin: 0px;
+    padding: 0px;    }
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;   }
+    ul{
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;     }
+    li{
+        display: inline-block;
+        margin-right: 20px;       }    
+section{
+    background-color: white;
+    color: black;
+    padding: 20px;  
+    display: flex;
+    flex-direction: row;          }
+   div{
+       background-color: red;
+       color: black;
+       display: inline-block;
+       width: 100px;
+       margin: auto;
+
+   } 
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;      }        
